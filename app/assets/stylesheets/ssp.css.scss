@@ -1,0 +1,38 @@
+// Place all the styles related to the ssp controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+img {
+	width: 50%; 
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+p{
+	font-size: 20px;
+}
+#ssp{
+	padding-left: 355px;
+	padding-right: 350px;
+}
+.background{
+	color: #480059;
+	font-size: 40px;
+}
+.list{
+	padding-right: 25px;
+}
+ol{
+	font-size: 20px;
+}
+a {
+	color: #480059; 
+    text-decoration: none;
+}
+
+a:hover 
+{
+	color:#AC83B5;
+     text-decoration:none; 
+     cursor:pointer;  
+}

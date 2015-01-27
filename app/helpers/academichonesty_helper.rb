@@ -1,0 +1,2 @@
+module AcademichonestyHelper
+end
